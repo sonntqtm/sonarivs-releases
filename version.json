@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "setupUrl": "https://github.com/sonntqtm/IVS_IOauto/releases/download/v1.0.0/sonarivs-setup.exe",
-  "notes": "Phien ban dau tien: Cham cong tu dong CLI + Service + Desktop, Telegram notify, Logs realtime."
+  "setupUrl": "https://github.com/sonntqtm/sonarivs-releases/releases/download/v1.0.0/sonarivs-setup.exe",
+  "notes": "Phien ban dau tien: Cham cong tu dong CLI + Service + Desktop, Telegram notify, Logs realtime, auto-update."
 }
